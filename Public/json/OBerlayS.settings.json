@@ -1,0 +1,18 @@
+{
+    "nulls" : true,
+    "default_value" : null,
+    "autostart" : true,
+    "position" : "body",
+    "frames_per_second" : 24,
+    "preload_timeout" : 2000,
+    "ajax_timeout" : 2000,
+    "default_settings_file" : "json/OBerlayS.settings.json",
+    "license" : [
+        "© 2021-2022 CopyLeft.",
+        "<a href=\"https://www.gnu.org/licenses/gpl-3.0.txt\" target=\"_blank\" title=\"GPLv3\">",
+            "<img src=\"https://www.gnu.org/graphics/gplv3-127x51.png\" alt=\"GPLv3\" />",
+        "</a>",
+        "Developed by KyMAN."
+    ],
+    "i18n_files" : "json/OBerlayS.i18n.english.json"
+}

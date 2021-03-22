@@ -1,0 +1,18 @@
+// Colors.
+$color-primary : #2272D4;
+$color-secondary : #D47222;
+$color-fore : #222;
+$color-back : #EDEDED;
+
+// Fonts.
+$font-family : "Pangolin";
+
+// Common.
+@mixin text{
+    font-family : $font-family;
+    color : $color-fore;
+    text-shadow :
+        0em 0em .2em $color-back,
+        0em 0em .1em $color-back,
+        0em 0em .05em $color-back;
+}
